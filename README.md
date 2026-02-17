@@ -3,7 +3,7 @@
 🚀 **Infosphere** is a modern AI-powered news web app that delivers real-time global & local news with smart summarization and multilingual support — all in a clean, fast, and responsive interface.
 
 🔗 **Live Demo (Render):**  
-👉 https://infosphere-ai-powered-news-app.onrender.com/
+👉 https://infosphere-ai-powered-news.onrender.com
 
 ---
 
